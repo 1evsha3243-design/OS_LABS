@@ -1,0 +1,4 @@
+echo Привет из файла
+help
+pause
+quit
